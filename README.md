@@ -23,7 +23,7 @@
 <code><img title="mysql" height="50" src="images/mysql-svgrepo-com.svg"></code>
 <code><img title="svn" height="50" src="images/svn-svgrepo-com.svg"></code>
 
-<code><img title="golang" height="50" src="images/golang-svgrepo-com.svg"></code>
+<code><img title="golang" height="50" src="images/golang02-svgrepo-com.svg"></code>
 <code><img title="docker" height="50" src="images/docker-svgrepo-com.svg"></code>
 <code><img title="prometheus" height="50" src="images/prometheus-svgrepo-com.svg"></code>
 
