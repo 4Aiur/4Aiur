@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=80B5E2&width=435&height=30&lines=The+best+way+to+learn+is+by+doing.+)](https://git.io/typing-svg)
-<hr>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=80B5E2&vCenter=true&width=435&height=30&lines=The+best+way+to+learn+is+by+doing.+)](https://git.io/typing-svg)
 
+---
 >— 《Hackers & Painters》 Paul Graham
 >>“This is why so many of the best programmers are libertarians. In our world, you sink or swim, and there are no excuses. When those far removed from the creation of wealth – undergraduates, reporters, politicians – hear that the richest 5% of the people have half the total wealth, they tend to think injustice! An experienced programmer would be more likely to think is that all? The top 5% of programmers probably write 99% of the good software.”
 
-<hr>
+--- 
 <p>
 <code><img title="css3" height="50" src="images/css3-01-svgrepo-com.svg"></code>
 <code><img title="html5" height="50" src="images/html5-01-svgrepo-com.svg"></code>
