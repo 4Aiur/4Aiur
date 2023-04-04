@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=80B5E2&width=435&height=30&lines=The+best+way+to+learn+is+by+doing.+)](https://git.io/typing-svg)
 <hr>
 
 >— 《Hackers & Painters》 Paul Graham
