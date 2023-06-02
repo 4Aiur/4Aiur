@@ -11,8 +11,7 @@
 <code><img title="react" height="50" src="images/react-svgrepo-com.svg"></code>
 <code><img title="typescript" height="50" src="images/typescript-svgrepo-com.svg"></code>
 <code><img title="tailwindcss" height="50" src="images/tailwindcss-svgrepo-com.svg"></code>
-<code><img title="nestjs" height="50" src="images/nestjs-svgrepo-com.svg"></code>
-<code><img title="prisma" height="50" src="images/prisma-svgrepo-com.svg"></code>
+<code><img title="nextjs" height="50" src="images/nextjs-svgrepo-com.svg"></code>
 <code><img title="webstrom" height="50" src="images/brand-webstorm-svgrepo-com.svg"></code>
 
 
